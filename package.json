@@ -1,0 +1,13 @@
+{
+    "name": "perlin",
+    "private": true,
+    "main": "dist/perlin.js",
+    "types": "dist/perlin.d.ts",
+    "scripts": {
+        "install": "tsc"
+    },
+    "devDependencies": {
+        "@types/node": "latest",
+        "typescript": "latest"
+    }
+}
